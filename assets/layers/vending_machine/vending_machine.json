@@ -239,7 +239,9 @@
         }
       ]
     },
-    "level"
+    "level",
+    "website",
+    "description"
   ],
   "calculatedTags": [
     "_vending_count=feat.properties.vending.split(';').length"
